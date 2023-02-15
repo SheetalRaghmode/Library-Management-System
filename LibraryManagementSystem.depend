@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672511253 source:d:\sheetal\dsa\librarymanagementsystem\main.c
+	<stdio.h>
+	"Services.h"
+	<time.h>
+	<string.h>
+
+1672511253 d:\sheetal\dsa\librarymanagementsystem\services.h
+
